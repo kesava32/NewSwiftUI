@@ -8,8 +8,6 @@
 import SwiftUI
 import Singular
 
-import SwiftUI
-
 @main
 struct NewSwiftUIApp: App {
     @Environment(\.scenePhase) private var scenePhase
